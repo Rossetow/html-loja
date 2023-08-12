@@ -1,0 +1,28 @@
+body{
+    background-color: gainsboro;
+}
+
+.link {
+    font-size: 15px;
+}
+
+p{
+    font-size:medium;
+}
+
+#localizacao{
+    border: 3px black solid;
+    display: inline;
+}
+
+#siga-nos{
+    border-left: blue 2px solid;    
+}
+
+h2{
+    color: brown;
+}
+
+.link{
+
+}
